@@ -1,0 +1,35 @@
+Account number: 10009
+Transaction type: Withdrawal
+Balance before transaction: 3000.99
+Balance after transaction: 2900.99
+
+Account number: 10009
+Transaction type: Funds deposit
+Balance before transaction: 2900.99
+Balance after transaction: 2902.24
+
+Account number: 67671
+Transaction type: Funds deposit
+Balance before transaction: 150
+Balance after transaction: 1050
+
+Account number: 12345
+Transaction type: Withdrawal
+Balance before transaction: 50.25
+Balance after transaction: 30.25
+
+Account number: 88834
+Transaction type: Withdrawal
+Balance before transaction: 4000
+Balance after transaction: 3800
+
+Account number: 12345
+Transaction type: Withdrawal
+Balance before transaction: 30.25
+Balance after transaction: 10.25
+
+Account number: 12345
+Transaction type: Funds deposit
+Balance before transaction: 10.25
+Balance after transaction: 20.25
+
